@@ -1,3 +1,5 @@
+![Rain](rain.gif)
+
 ## Hi!
 
 I am Uroš Ognjenović, a **Solidity** developer and **Web3** researcher.

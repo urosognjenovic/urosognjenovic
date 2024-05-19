@@ -17,7 +17,7 @@ class Raindrop:
     def __init__(self):
         self.x = random.randint(0, WIDTH)
         self.y = random.randint(-HEIGHT, 0)
-        self.speed = random.randint(5, 15)
+        self.speed = random.randint(15, 45)
 
     def fall(self):
         self.y += self.speed
