@@ -6,10 +6,12 @@ With a solid foundation in Solidity and a passion for Web3 and blockchain techno
 
 ## Tools and technologies:
 
-- **Foundry**: Proficient with Forge, Cast, Anvil, and Chisel for developing, testing, and deploying smart contracts.
-- **Remix**: Experienced in using Remix IDE for writing, testing, and debugging Solidity code.
-- **Alchemy**: Utilized Alchemy's powerful infrastructure to interact with Ethereum and other blockchain networks.
+- **Foundry**: Proficient with **Forge**, **Cast**, **Anvil**, and **Chisel** for developing, testing, and deploying smart contracts. Skilled in writing comprehensive tests, including unit, integration, fuzz (stateless and stateful), invariant, and differential tests, to ensure the robustness and security of smart contracts.
+- **Remix**: Experienced in using **Remix** IDE for writing, testing, and debugging Solidity code.
+- **Node as a Service**: Utilized **Alchemy**'s and **Infura**'s powerful infrastructure to interact with Ethereum and other blockchain networks.
 - **Etherscan**: Skilled in using Etherscan for verifying contracts and tracking transactions.
+- **Python**: Proficient in using **web3** and **eth_account** libraries for tasks such as signing and sending transactions with local private keys, interacting with smart contracts, and reading data from the blockchain.
+- **Git**: Experienced in using Git for version control, including branching, merging, and collaborating on code with distributed teams. Comfortable with managing repositories, handling pull requests, and maintaining a clean commit history.
 
 ## My key interests include:
 
