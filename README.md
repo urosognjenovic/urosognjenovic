@@ -11,6 +11,7 @@ With a solid foundation in Solidity and a passion for Web3 and blockchain techno
 - **Node as a Service**: Utilized **Alchemy**'s and **Infura**'s powerful infrastructure to interact with Ethereum and other blockchain networks.
 - **Etherscan**: Skilled in using Etherscan for verifying contracts and tracking transactions.
 - **Python**: Proficient in using **web3** and **eth_account** libraries for tasks such as signing and sending transactions with local private keys, interacting with smart contracts, and reading data from the blockchain.
+- **JavaScript**: Proficient in **TypeScript** for robust type-checking and maintainable code, **React** for building responsive, user-friendly interfaces, **wagmi** for streamlined Web3 integration and wallet management, and **viem** for efficient interaction with smart contracts and blockchain data.
 - **Git**: Experienced in using Git for version control, including branching, merging, and collaborating on code with distributed teams. Comfortable with managing repositories, handling pull requests, and maintaining a clean commit history.
 
 ## My key interests include:
