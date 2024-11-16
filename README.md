@@ -11,7 +11,7 @@ With a solid foundation in Solidity and a passion for Web3 and blockchain techno
 - **Remix**: Experienced in using **Remix** IDE for writing, testing, and debugging Solidity code.
 - **Node as a Service**: Utilized **Alchemy**'s and **Infura**'s powerful infrastructure to interact with Ethereum and other blockchain networks.
 - **Etherscan**: Skilled in using Etherscan for verifying contracts and tracking transactions.
-- **𝐓𝐞𝐧𝐝𝐞𝐫𝐥𝐲**: Proficient in using Tenderly to simulate on-chain transactions for testing and debugging smart contracts.
+- **Tenderly**: Proficient in using Tenderly to simulate on-chain transactions for testing and debugging smart contracts.
 - **Git**: Experienced in using Git for version control, including branching, merging, and collaborating on code with distributed teams. Comfortable with managing repositories, handling pull requests, and maintaining a clean commit history.
 
 ## My key interests include:
