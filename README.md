@@ -7,7 +7,7 @@ With a solid foundation in Solidity and a passion for Web3 and blockchain techno
 ## Tools and technologies:
 
 - **Foundry**: Proficient with **Forge**, **Cast**, **Anvil**, and **Chisel** for developing, testing, and deploying smart contracts. Skilled in writing comprehensive tests, including unit, integration, fuzz (stateless and stateful), invariant, and differential tests, to ensure the robustness and security of smart contracts.
-- **JavaScript**: Proficient in **TypeScript** for robust type-checking and maintainable code, **React** for building responsive, user-friendly interfaces, **wagmi** for streamlined Web3 integration and wallet management, and **viem** for efficient interaction with smart contracts and blockchain data.
+- **JavaScript**: Proficient in **TypeScript** for robust type-checking and maintainable code, **React** for building responsive, user-friendly interfaces, **Onchainkit** and **wagmi** for streamlined Web3 integration and wallet management, and **viem** for efficient interaction with smart contracts and blockchain data.
 - **Remix**: Experienced in using **Remix** IDE for writing, testing, and debugging Solidity code.
 - **Node as a Service**: Utilized **Alchemy**'s and **Infura**'s powerful infrastructure to interact with Ethereum and other blockchain networks.
 - **Etherscan**: Skilled in using Etherscan for verifying contracts and tracking transactions.
