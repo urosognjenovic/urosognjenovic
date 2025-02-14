@@ -1,27 +1,23 @@
-## About me
+Hey, I'm Uroš Ognjenović, a Solidity developer and Web3 enthusiast.
 
-I am Uroš Ognjenović, a **Solidity** developer and **Web3** enthusiast.
+At the moment I'm exploring Rust and Uniswap v4.
 
-With a solid foundation in Solidity and a passion for Web3 and blockchain technology, I am on a mission to contribute to the decentralized future. Over the past year, I have dedicated myself to mastering Solidity, building smart contracts, and understanding the nuances of blockchain development. My journey in the Web3 space began three years ago, and since then, I have been deeply involved in exploring the transformative potential of decentralized technologies.
+## Tools & Technologies
 
-## Tools and technologies:
+- **Solidity & Foundry** – Writing and testing smart contracts (unit, integration, fuzz, invariant, and differential testing).
+- **JavaScript & TypeScript** – Building SDKs and Web3 frontends with React, wagmi, and viem.
+- **Remix** – Quick prototyping and testing.
+- **Tenderly** - Simulating and debugging transactions.
+- **Node as a Service** – Using Alchemy and Infura for blockchain interactions.
+- **Etherscan** – Tracking transactions and reading onchain data.
+- **Git** – Version control, branching, merging, and collaborating on projects.
 
-- **Foundry**: Proficient with **Forge**, **Cast**, **Anvil**, and **Chisel** for developing, testing, and deploying smart contracts. Skilled in writing comprehensive tests, including unit, integration, fuzz (stateless and stateful), invariant, and differential tests, to ensure the robustness and security of smart contracts.
-- **JavaScript**: Proficient in **TypeScript** for robust type-checking and maintainable code, **React** for building responsive, user-friendly interfaces, **Onchainkit** and **wagmi** for streamlined Web3 integration and wallet management, and **viem** for efficient interaction with smart contracts and blockchain data.
-- **Remix**: Experienced in using **Remix** IDE for writing, testing, and debugging Solidity code.
-- **Node as a Service**: Utilized **Alchemy**'s and **Infura**'s powerful infrastructure to interact with Ethereum and other blockchain networks.
-- **Etherscan**: Skilled in using Etherscan for verifying contracts and tracking transactions.
-- **Tenderly**: Proficient in using Tenderly to simulate on-chain transactions for testing and debugging smart contracts.
-- **Git**: Experienced in using Git for version control, including branching, merging, and collaborating on code with distributed teams. Comfortable with managing repositories, handling pull requests, and maintaining a clean commit history.
+## Interests
 
-## My key interests include:
-
-- Developing secure and efficient smart contracts.
-- Exploring innovative use cases for blockchain in various industries.
-- Contributing to open-source blockchain projects.
-- Staying updated with the latest trends and advancements in the Web3 ecosystem.
-
-I am enthusiastic about leveraging my skills to work on cutting-edge projects and collaborate with like-minded professionals who share a vision for a decentralized and transparent world. Let's connect and explore opportunities to innovate and drive the blockchain revolution forward.
+- Writing secure and efficient smart contracts.
+- Exploring new blockchain use cases.
+- Contributing to open source Web3 projects.
+- Keeping up with the latest blockchain tech.
 
 ## Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin)](https://www.linkedin.com/in/urosognjenovic/)
