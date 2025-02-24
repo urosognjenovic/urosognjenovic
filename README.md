@@ -1,4 +1,4 @@
-Hey, I'm Uroš Ognjenović, a Solidity developer and Web3 enthusiast.
+Hey, I'm Uroš Ognjenović, a Smart Contract Engineer and Web3 enthusiast.
 
 At the moment I'm exploring Rust and Uniswap v4.
 
@@ -8,7 +8,6 @@ At the moment I'm exploring Rust and Uniswap v4.
 - **JavaScript & TypeScript** – Building SDKs and Web3 frontends with React, wagmi, and viem.
 - **Remix** – Quick prototyping and testing.
 - **Tenderly** - Simulating and debugging transactions.
-- **Node as a Service** – Using Alchemy and Infura for blockchain interactions.
 - **Etherscan** – Tracking transactions and reading onchain data.
 - **Git** – Version control, branching, merging, and collaborating on projects.
 
@@ -21,5 +20,5 @@ At the moment I'm exploring Rust and Uniswap v4.
 
 ## Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin)](https://www.linkedin.com/in/urosognjenovic/)
-[![X](https://img.shields.io/badge/Twitter-black?logo=x)](https://twitter.com/ognjenovicuros)
-[![Ethereum Stack Exchange](https://img.shields.io/badge/Ethereum_Stack_Exchange-black?logo=stackexchange)](https://ethereum.stackexchange.com/users/132551/ougi)
+[![X](https://img.shields.io/badge/Twitter-black?logo=x)](https://x.com/ognjenovicuros)
+[![Ethereum Stack Exchange](https://img.shields.io/badge/Ethereum_Stack_Exchange-black?logo=stackexchange)](https://ethereum.stackexchange.com/users/132551/urosognjenovic)
