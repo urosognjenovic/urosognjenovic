@@ -1,24 +1,32 @@
-Hey, I'm Uroš Ognjenović, a Smart Contract Engineer and Web3 enthusiast.
+## Hey, I'm Uroš Ognjenović 👋
 
-At the moment I'm exploring Rust and Uniswap v4.
+### Smart Contract Engineer | Web3 Enthusiast
 
-## Tools & Technologies
+I have hands-on experience in writing and testing smart contracts in Solidity, developing full stack blockchain applications, finding smart contract bugs on CodeHawks, and more.
+
+## 🛠 Tools & Technologies
 
 - **Solidity & Foundry** – Writing and testing smart contracts (unit, integration, fuzz, invariant, and differential testing).
-- **JavaScript & TypeScript** – Building SDKs and Web3 frontends with React, wagmi, and viem.
+- **JavaScript & TypeScript** – Building SDKs and Web3 frontends with Node.js, viem, wagmi, and React.
 - **Remix** – Quick prototyping and testing.
-- **Tenderly** - Simulating and debugging transactions.
-- **Etherscan** – Tracking transactions and reading onchain data.
+- **Docker** – Creating and managing isolated environments.
 - **Git** – Version control, branching, merging, and collaborating on projects.
+- **Miscellaneous** - Tenderly, Etherscan, Token Standards (ERC20, ERC721), and more.
 
-## Interests
+## 🚀 Currently Exploring
 
-- Writing secure and efficient smart contracts.
-- Exploring new blockchain use cases.
+- 🦄 **Uniswap v4** – Hooks, singleton architecture, and liquidity pool management.
+- 🦀 **Rust** – For performance and security.
+
+## ❤️ Interests
+
+- Writing secure and optimized smart contracts.
 - Contributing to open source Web3 projects.
+- Interacting with the Web3 community on forums.
+- Exploring new blockchain use cases.
 - Keeping up with the latest blockchain tech.
 
-## Let's connect
+## 🔗 Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin)](https://www.linkedin.com/in/urosognjenovic/)
 [![X](https://img.shields.io/badge/Twitter-black?logo=x)](https://x.com/ognjenovicuros)
 [![Ethereum Stack Exchange](https://img.shields.io/badge/Ethereum_Stack_Exchange-black?logo=stackexchange)](https://ethereum.stackexchange.com/users/132551/urosognjenovic)
