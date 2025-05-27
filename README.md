@@ -11,7 +11,7 @@ I have hands-on experience in writing and testing smart contracts in Solidity, d
 - **Remix** – Quick prototyping and testing.
 - **Docker** – Creating and managing isolated environments.
 - **Git** – Version control, branching, merging, and collaborating on projects.
-- **Miscellaneous** - Tenderly, Etherscan, Token Standards (ERC20, ERC721), and more.
+- **Miscellaneous** – Chainlink, The Graph, Tenderly, IPFS, Etherscan, Token Standards (ERC20, ERC721), Docker, GitHub Actions, and more.
 
 ## 🚀 Currently Exploring
 
