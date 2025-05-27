@@ -9,7 +9,6 @@ I have hands-on experience in writing and testing smart contracts in Solidity, d
 - **Solidity & Foundry** – Writing and testing smart contracts (unit, integration, fuzz, invariant, and differential testing).
 - **JavaScript & TypeScript** – Building SDKs and Web3 frontends with Node.js, viem, wagmi, and React.
 - **Remix** – Quick prototyping and testing.
-- **Docker** – Creating and managing isolated environments.
 - **Git** – Version control, branching, merging, and collaborating on projects.
 - **Miscellaneous** – Chainlink, The Graph, Tenderly, IPFS, Etherscan, Token Standards (ERC20, ERC721), Docker, GitHub Actions, and more.
 
