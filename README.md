@@ -1,4 +1,4 @@
-## Hey, I'm Uroš Ognjenović 👋
+## 👋 Hey, I'm Uroš Ognjenović
 
 ### Smart Contract Engineer | Web3 Enthusiast
 
